@@ -81,6 +81,7 @@
         };
 
         Extras {
+            display-name = "Extras";
             bindings = <
 &ext_power EP_TOG  &soft_off          &out OUT_TOG     &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
 &bt BT_CLR         &bt BT_PRV         &bt BT_NXT       &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
@@ -90,6 +91,7 @@
         };
 
         Gaming {
+            display-name = "Gaming";
             bindings = <
 &kp ESC    &kp N1  &kp N2  &kp N3  &kp N4     &kp N5       &trans  &trans  &trans  &trans  &trans  &trans
 &kp TAB    &kp Q   &kp E   &kp W   &kp R      &kp T        &trans  &trans  &trans  &trans  &trans  &trans
