@@ -89,7 +89,7 @@
             >;
         };
 
-        JV {
+        Gaming {
             bindings = <
 &kp ESC    &kp N1  &kp N2  &kp N3  &kp N4     &kp N5       &trans  &trans  &trans  &trans  &trans  &trans
 &kp TAB    &kp Q   &kp E   &kp W   &kp R      &kp T        &trans  &trans  &trans  &trans  &trans  &trans
