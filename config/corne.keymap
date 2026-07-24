@@ -77,7 +77,7 @@
             bindings = <
 &trans  &msc SCRL_LEFT  &kp LEFT        &mmv MOVE_UP    &kp RIGHT        &msc SCRL_RIGHT    &kp F1   &kp F2    &kp UP             &kp F3     &kp F4   &kp BSPC
 &to 0   &msc SCRL_UP    &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &kp UP             &kp F5   &kp LEFT  &kp DOWN           &kp RIGHT  &kp F6   &kp F7
-&to 2   &msc SCRL_DOWN  &mkp MB1        &mkp MB3        &mkp MB2         &kp DOWN           &kp F8   &kp F9    &kp F10            &kp F11    &kp F12  &kp F13
+&tog 2  &msc SCRL_DOWN  &mkp MB1        &mkp MB3        &mkp MB2         &kp DOWN           &kp F8   &kp F9    &kp F10            &kp F11    &kp F12  &kp F13
                                         &kp LGUI        &trans           &kp SPACE          &kp RET  &trans    &kp RIGHT_CONTROL
             >;
         };
